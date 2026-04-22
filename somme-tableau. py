@@ -1,0 +1,3 @@
+tab = [2, 4, 6, 8]
+somme = sum(tab)
+print(f"Somme en python : {somme}")
